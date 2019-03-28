@@ -16,4 +16,6 @@ Aquí tendrás acceso a:
 
 ## Temas
 
-1. Introducción a la combinatoria 
+1. Introducción a la combinatoria
+2. Conjuntos
+3. Busquedas y Ordenamiento 

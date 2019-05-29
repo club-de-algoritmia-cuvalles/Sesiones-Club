@@ -18,4 +18,6 @@ Aquí tendrás acceso a:
 
 1. Introducción a la combinatoria
 2. Conjuntos
-3. Busquedas y Ordenamiento 
+3. Busquedas y Ordenamiento
+4. Grafos
+ 
